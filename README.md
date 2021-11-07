@@ -50,19 +50,19 @@ Salary data originally from Sports Illustrated, April 20, 1987.
 ### Libraries
 
 ```
-import pandas as pd
-import numpy as np
-import seaborn as sns
-from matplotlib import pyplot as plt
-import missingno as msno
-from datetime import date
-from sklearn.metrics import accuracy_score
-from sklearn.model_selection import train_test_split
-from sklearn.neighbors import LocalOutlierFactor
-from sklearn.preprocessing import MinMaxScaler, LabelEncoder, StandardScaler, RobustScaler
-import warnings
-from pandas.core.common import SettingWithCopyWarning
-from sklearn.exceptions import ConvergenceWarning
+pandas
+numpy
+seaborn
+matplotlib 
+missingno 
+datetime 
+sklearn.metrics
+sklearn.model_selection 
+sklearn.neighbors 
+sklearn.preprocessing import MinMaxScaler, LabelEncoder, StandardScaler, RobustScaler
+warnings
+pandas.core.common import SettingWithCopyWarning
+sklearn.exceptions import ConvergenceWarning
 ```
 
 ---
